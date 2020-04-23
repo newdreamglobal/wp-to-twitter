@@ -1,4 +1,4 @@
-# WP to Twitter
+# WP to Twitter (newdreamglobal)
 
 Automatically send your posts as Tweets.
 
